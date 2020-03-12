@@ -1,0 +1,6 @@
+
+State Machine - |FinalTrafficLights|State
+Name State.RedTraffic State.YellowTraffic State.GreenTraffic 
+State.GreenTraffic 0 0 0 
+State.YellowTraffic 0 1 1 
+State.RedTraffic 1 0 1 
